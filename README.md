@@ -21,6 +21,7 @@ time **19:28**
 7. git add --all
 8. git commit -m "鍚嶅瓧"
 9. git push origin master
+10 . ...
 
 git checkout -b dev
 
